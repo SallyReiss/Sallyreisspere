@@ -2,7 +2,7 @@
 
 Prueba módulo Introducción al Desarrollo Web
 
-Link a la página : https://sallyreiss.github.io/Sallyreisspere.github.io/
+Link a la página : https://sallyreiss.github.io/proyectofinal.github.io/
 
 Repositorios forkeados:
 1. https://github.com/SallyReiss/rdinamar.github.io
